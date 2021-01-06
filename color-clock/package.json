@@ -4,8 +4,8 @@
   "description": "\"changes the color of the clock by the second\"",
   "main": "index.js",
   "scripts": {
-    "test": "\"echo 'Hello, World!'\""
+    "test": "echo 'Hello, World!'"
   },
-  "author": "",
+  "author": "Justin R. Zweifel",
   "license": "ISC"
 }
